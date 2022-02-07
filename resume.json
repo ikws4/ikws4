@@ -9,8 +9,8 @@
     "aboutme": "自我介绍"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": true
+    "src": "",
+    "hidden": false
   },
   "profile": {
     "name": "余志平",
@@ -68,10 +68,10 @@
   "projectList": [
     {
       "project_name": "青芒Cyanmango3.0",
-      "project_role": "前端负责人",
+      "project_role": "Flutter开发",
       "project_time": "2019.04 - 2020.06",
       "project_desc": "青芒Cyanmango3.0：在 2020 年暑假期间，我使用 Flutter 为青芒社区编写了其客户端应用（主要是 Android 端）。在这一过程中，我担任客户端独立开发的角色，与后端人员沟通了关于其后端 API 的接口设计以及与验证相关的问题，在 UI 方面，积极与设计师讨论其设计细节与实现相关的问题。应用曾在魅族商店上架过一段时间，但是由于没有备案的原因下架了到现在也没有上架。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率",
+      "project_content": "",
       "dataIndex": 0,
       "role": "Flutter开发"
     }
@@ -98,5 +98,8 @@
   "aboutme": {
     "aboutme_desc": "一名算法爱好者，每天 LeetCode 美服打卡并且经常参加周赛，最好的一次成绩是在第 69 场双周赛全球排名 168。而且喜欢逛 Github、热爱开源和新技术，在 2017 年 Flutter 第一个 beta 测试的时候就在持续关注 Flutter 相关的信息和技术，也在多个项目中使用过 Flutter 来实现前端 UI。在 2021 年寒假期间通过在线书籍 craftinginterpreters 学习到了语言设计相关部分的知识，跟着书籍一步一步用 Java 实现了自己第一个解释器。在2021年暑假期间，由导师介绍淘宝店铺模块开发实习机会，这次实习的内容是编写淘宝店铺模块，其大部分代码是多个模块可以共用，如果都由人工编写，一个模块一个人的话需要话一天时间，后面通过自己学习到的解释器相关知识和受 Flutter 启发的声名式编程，为自己的工作编写了一个的代码生产器。效率由之前一天编写一个模块提升到了一个模块半个小时。"
   },
-  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+  "theme": {
+    "color": "rgba(69, 69, 69, 1)",
+    "tagColor": "rgba(245, 195, 68, 1)"
+  }
 }
