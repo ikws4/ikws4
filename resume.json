@@ -8,10 +8,7 @@
     "workList": "个人作品",
     "aboutme": "自我介绍"
   },
-  "avatar": {
-    "src": "",
-    "hidden": false
-  },
+  "avatar": { "src": "", "hidden": false },
   "profile": {
     "name": "余志平",
     "email": "zhipingne@gmail.com",
