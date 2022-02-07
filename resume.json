@@ -8,7 +8,7 @@
     "workList": "个人作品",
     "aboutme": "自我介绍"
   },
-  "avatar": { "src": "", "hidden": false },
+  "avatar": { "src": "", "hidden": true },
   "profile": {
     "name": "余志平",
     "email": "zhipingne@gmail.com",
@@ -39,26 +39,26 @@
   "skillList": [
     {
       "skill_name": "英语",
-      "skill_desc": "英语：大学英语6级证书，有快速阅读相关英文文档的能力。",
+      "skill_desc": "大学英语6级证书，有快速阅读相关英文文档的能力。",
       "skill_level": 60,
       "dataIndex": 0
     },
     {
       "skill_name": "算法",
-      "skill_desc": "算法：日常 LeetCode 美服打卡且经常参加周赛，最好的成绩是第 69 场双周赛全球排名 168。",
+      "skill_desc": "日常 LeetCode 美服打卡且经常参加周赛，最好的成绩是第 69 场双周赛全球排名 168。",
       "skill_level": 70,
       "dataIndex": 1
     },
     {
       "skill_name": "Android",
-      "skill_desc": "Android：拥有编写 Android 自定义控件的经验，对于 JNI 方面也有一点点的了解",
+      "skill_desc": "拥有编写 Android 自定义控件的经验，对于 JNI 方面也有一点点的了解",
       "skill_level": 60,
       "dataIndex": 2
     },
     {
       "skill_name": "Flutter",
       "skill_level": 60,
-      "skill_desc": "Flutter：能够使用 Flutter 编写跨平台应用",
+      "skill_desc": "能够使用 Flutter 编写跨平台应用",
       "dataIndex": 3
     }
   ],
@@ -71,14 +71,23 @@
       "project_content": "青芒Cyanmango3.0：在 2020 年暑假期间，我使用 Flutter 为青芒社区编写了其客户端应用（主要是 Android 端）。在这一过程中，我担任客户端独立开发的角色，与后端人员沟通了关于其后端 API 的接口设计以及与验证相关的问题，在 UI 方面，积极与设计师讨论其设计细节与实现相关的问题。应用曾在魅族商店上架过一段时间，但是由于没有备案的原因下架了。",
       "dataIndex": 0,
       "role": "Flutter开发"
+    },
+    {
+      "project_name": "淘宝店铺模块开发",
+      "project_role": "模块开发",
+      "project_time": "2021.06 - 2021.09",
+      "project_desc": "淘宝店铺模块",
+      "project_content": "在2021年暑假期间，通过老师介绍，获得了淘宝店铺模块开发实习的机会，我的工作的内容是负责批量编写淘宝店铺模块，从编写AXML、ACSS、JS在加上用户表单的设计和开发快的话需要一天时间，在多次接触去代码结构后发现其中大部分代码是可以被很多模块可以共用。在后面通过自己学习到的解释器相关知识和受到 Flutter 启发的声名式编程，为自己的工作编写了一个的代码生产器。效率由之前一天编写一个模块提升到了半个小时一个",
+      "dataIndex": 1,
+      "role": "模块开发"
     }
   ],
   "workList": [
     {
-      "work_name": "微聚 - 应用变量 & 应用翻译",
+      "work_name": "微聚",
       "work_desc": "提供大量自定义功能的聚合xposed工具。",
       "visit_link": "https://github.com/ikws4/WeiJu",
-      "dataIndex": 1
+      "dataIndex": 0
     },
     {
       "work_name": "CodeEditor",
@@ -93,10 +102,7 @@
     }
   ],
   "aboutme": {
-    "aboutme_desc": "一名算法爱好者，每天 LeetCode 美服打卡并且经常参加周赛，最好的一次成绩是在第 69 场双周赛全球排名 168。而且喜欢逛 Github、热爱开源和新技术，在 2017 年 Flutter 第一个 beta 测试的时候就在持续关注 Flutter 相关的信息和技术，也在多个项目中使用过 Flutter 来实现前端 UI。在 2021 年寒假期间通过在线书籍 craftinginterpreters 学习到了语言设计相关部分的知识，跟着书籍一步一步用 Java 实现了自己第一个解释器。在2021年暑假期间，由导师介绍淘宝店铺模块开发实习机会，这次实习的内容是编写淘宝店铺模块，其大部分代码是多个模块可以共用，如果都由人工编写，一个模块一个人的话需要话一天时间，后面通过自己学习到的解释器相关知识和受 Flutter 启发的声名式编程，为自己的工作编写了一个的代码生产器。效率由之前一天编写一个模块提升到了一个模块半个小时。"
+    "aboutme_desc": "一名算法爱好者，每天 LeetCode 美服打卡并且经常参加周赛，最好的一次成绩是在第 69 场双周赛全球排名 168。而且喜欢逛 Github、热爱开源和新技术，在 2017 年 Flutter 第一个 beta 测试的时候就在持续关注 Flutter 相关的信息和技术，也在多个项目中使用过 Flutter 来实现前端 UI。在 2021 年寒假期间通过在线书籍 craftinginterpreters 学习到了语言设计相关部分的知识，跟着书籍一步一步用 Java 实现了自己第一个解释器。"
   },
-  "theme": {
-    "color": "rgba(69, 69, 69, 1)",
-    "tagColor": "rgba(245, 195, 68, 1)"
-  }
+  "theme": { "color": "#2f5785", "tagColor": "rgba(245, 195, 68, 1)" }
 }
