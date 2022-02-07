@@ -9,8 +9,7 @@
     "aboutme": "自我介绍"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": false
+    "hidden": true
   },
   "profile": {
     "name": "余志平",
@@ -68,12 +67,10 @@
   "projectList": [
     {
       "project_name": "青芒Cyanmango3.0",
-      "project_role": "前端负责人",
+      "project_role": "客户端负责人",
       "project_time": "2019.04 - 2020.06",
       "project_desc": "青芒Cyanmango3.0：在 2020 年暑假期间，我使用 Flutter 为青芒社区编写了其客户端应用（主要是 Android 端）。在这一过程中，我担任客户端独立开发的角色，与后端人员沟通了关于其后端 API 的接口设计以及与验证相关的问题，在 UI 方面，积极与设计师讨论其设计细节与实现相关的问题。应用曾在魅族商店上架过一段时间，但是由于没有备案的原因下架了到现在也没有上架。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率",
-      "dataIndex": 0,
-      "role": "Flutter开发"
+      "dataIndex": 0
     }
   ],
   "workList": [],
