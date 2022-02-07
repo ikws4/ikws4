@@ -39,26 +39,26 @@
   "skillList": [
     {
       "skill_name": "英语",
-      "skill_desc": "大学英语6级证书，有快速阅读相关英文文档的能力。",
+      "skill_desc": "英语: 大学英语6级证书，有快速阅读相关英文文档的能力。",
       "skill_level": 60,
       "dataIndex": 0
     },
     {
       "skill_name": "算法",
-      "skill_desc": "日常 LeetCode 美服打卡且经常参加周赛，最好的成绩是第 69 场双周赛全球排名 168。",
+      "skill_desc": "算法: 日常 LeetCode 美服打卡且经常参加周赛，最好的成绩是第 69 场双周赛全球排名 168。",
       "skill_level": 70,
       "dataIndex": 1
     },
     {
       "skill_name": "Android",
-      "skill_desc": "拥有编写 Android 自定义控件的经验，对于 JNI 方面也有一点点的了解",
+      "skill_desc": "Android: 拥有编写自定义控件的经验，对于 JNI 方面也有一点点的了解",
       "skill_level": 60,
       "dataIndex": 2
     },
     {
       "skill_name": "Flutter",
       "skill_level": 60,
-      "skill_desc": "能够使用 Flutter 编写跨平台应用",
+      "skill_desc": "Flutter: 拥有编写跨平台应用的经验",
       "dataIndex": 3
     }
   ],
