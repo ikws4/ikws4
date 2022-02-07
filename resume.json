@@ -95,19 +95,20 @@
     {
       "work_name": "微聚",
       "work_desc": "提供大量自定义功能的聚合xposed工具。",
-      "visit_link": "https://github.com/ikws4/WeiJu",
+      "visit_link": "https://www.coolapk.com/apk/io.ikws4.weiju",
       "dataIndex": 0
     },
     {
       "work_name": "CodeEditor",
       "work_desc": "一款代码编辑器，提供代码高亮、补全功能",
       "visit_link": "https://github.com/ikws4/CodeEditor",
-      "dataIndex": 0
+      "dataIndex": 1
     },
     {
       "work_name": "AideHelper",
       "work_desc": "一款为Aide量身打造的Xposed模块",
-      "visit_link": "https://github.com/ikws4/AideHelper"
+      "visit_link": "https://github.com/ikws4/AideHelper",
+      "dataIndex": 2
     }
   ],
   "aboutme": {
