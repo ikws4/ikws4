@@ -3,5 +3,5 @@ I spent most of my time on open-source project and competitive programming.
 
 Skills: Java / Android / p5.js
 
-- 🌱 I’m currently learning rust / bevy / craftinginterpreters 
+- 🌱 I’m currently learning opengl / craftinginterpreters 
 - 📫 How to reach me: zhipingne@gmail.com 
